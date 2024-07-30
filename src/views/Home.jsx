@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import heroBg from "../assets/webdev.svg";
-import Typical from "react-typical";
+import Typical from "react-typing-effect";
 import { contactLinks } from "../constants";
 import { ThemeContext } from "../themeProvider";
 import { motion } from "framer-motion";
