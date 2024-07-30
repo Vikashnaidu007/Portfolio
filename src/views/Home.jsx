@@ -55,7 +55,7 @@ const Home = () => {
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
                 <a
-                  key={el.name} // Added a key for each item in the list
+                  key={el.name}
                   href={el.link}
                   className="mr-5 cursor-pointer mt-8 hover:scale-125"
                 >
