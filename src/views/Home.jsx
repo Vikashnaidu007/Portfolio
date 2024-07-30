@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import heroBg from "../assets/webdev.svg";
-import Typical from "react-typing-effect";
+import ReactTypingEffect from "react-typing-effect";
 import { contactLinks } from "../constants";
 import { ThemeContext } from "../themeProvider";
 import { motion } from "framer-motion";
@@ -31,16 +31,14 @@ const Home = () => {
                 Hi, I am Vikash
               </motion.span>
               <span className="block text-blue-500 z-0 lg:inline">
-                <Typical
-                  steps={[
+                <ReactTypingEffect
+                  text={[
                     "Full-Stack Developer",
-                    2000,
                     "BackEnd Developer",
-                    2000,
                     "Freelancer",
-                    2000,
                   ]}
-                  loop={Infinity}
+                  speed={100}
+                  eraseDelay={2000}
                 />
               </span>
             </h1>
