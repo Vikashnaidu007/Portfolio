@@ -30,7 +30,7 @@ const About = () => {
                   : "mt-4 text-xl text-justify text-white"
               }
             >
-             I am a self-taught web and mobile app developer with extensive experience in designing and developing high-performance software applications.
+             I am a self-taught web app developer with extensive experience in designing and developing high-performance software applications.
              I excel in creating new features from ideation to production, transforming wireframes and design flows into seamless user experiences. 
              With a strong foundation in both frontend and backend development, 
              I specialize in efficient database management and leveraging cloud services for scalable and reliable solutions. 
