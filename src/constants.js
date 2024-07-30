@@ -24,7 +24,7 @@ export const techStack = [
   { name: "React Native", link: "https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" },
 
   // Databases
-  { name: "MySQL", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" },
+  { name: "MySQL", link: "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" },
   { name: "MongoDB", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" },
 
   // Version Control
@@ -33,7 +33,7 @@ export const techStack = [
   { name: "GitHub", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
 
   // Cloud Services
-  { name: "AWS", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" },
+  { name: "AWS", link: "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_200_200/0/1670264051233/amazon_web_services_logo?e=1730332800&v=beta&t=o3NA1Zl1K60h62ri76vWk96Ra8yaqILqjF-SJMEJJjo" },
   { name: "Microsoft Azure", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" },
   { name: "Firebase", link: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" },
 
@@ -42,14 +42,14 @@ export const techStack = [
   { name: "Trello", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" },
   { name: "Confluence", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" },
   { name: "Slack", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" },
-  { name: "Microsoft Teams", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftteams/microsoftteams-original.svg" },
+  { name: "Microsoft Teams", link: "https://cdn.pixabay.com/photo/2022/01/27/07/17/microsoft-teams-6971301_960_720.png" },
 
   // Development Tools
   { name: "Visual Studio", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" },
   { name: "Visual Studio Code", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
   { name: "Eclipse", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" },
   { name: "IntelliJ IDEA", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" },
-  { name: "MS Office", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" },
+  { name: "MS Office", link: "https://www.dwdtechgroup.com/wp-content/uploads/office-365_grande.png" },
 
   // Containerization
   { name: "Docker", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" },
