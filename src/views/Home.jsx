@@ -28,7 +28,7 @@ const Home = () => {
               <motion.span
                 className={darkMode ? "block text-black" : " text-white"}
               >
-                Hi, I am Vikash
+                Hi, I am Vikash <br></br>
               </motion.span>
               <span className="block text-blue-500 z-0 lg:inline">
                 <TypingEffect
