@@ -32,7 +32,7 @@ const Home = () => {
               </motion.span>
               <span className="block text-blue-500 z-0 lg:inline">
                 <TypingEffect
-                  texts={["Full-Stack Developer", "BackEnd Developer", "Freelancer"]}
+                  texts={["Full-Stack Developer", "Back End Developer", "Front End Developer"]}
                   speed={100}
                   eraseSpeed={50}
                   delay={2000}
