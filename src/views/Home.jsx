@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import heroBg from "../assets/webdev.svg";
-import Typist from "react-typist";
+import TypingEffect from "../components/TypingEffect";
 import { contactLinks } from "../constants";
 import { ThemeContext } from "../themeProvider";
 import { motion } from "framer-motion";
@@ -31,13 +31,12 @@ const Home = () => {
                 Hi, I am Vikash
               </motion.span>
               <span className="block text-blue-500 z-0 lg:inline">
-                <Typist>
-                  <span>Full-Stack Developer</span>
-                  <Typist.Backspace count={20} delay={2000} />
-                  <span>BackEnd Developer</span>
-                  <Typist.Backspace count={20} delay={2000} />
-                  <span>Freelancer</span>
-                </Typist>
+                <TypingEffect
+                  texts={["Full-Stack Developer", "BackEnd Developer", "Freelancer"]}
+                  speed={100}
+                  eraseSpeed={50}
+                  delay={2000}
+                />
               </span>
             </h1>
             <p
